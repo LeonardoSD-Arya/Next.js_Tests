@@ -1,2 +1,1 @@
-# Next.js_Tests
-Resolution of the examples of next.js docs examples
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
